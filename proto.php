@@ -58,7 +58,6 @@
 	}
 	
 	.titulo_cent{
-
 		
 		font-size: 4.35em;
 		font-weight: 900;
@@ -74,19 +73,11 @@
 	    font-weight: initial;
 	    margin: 0.35em 0 0.25em;
 	    opacity: 0.48;
-	
-		
-
 		font-size: 40px;
 		color:grey;
 		font-style:bold;		
 	}
-	.titulo_cent p{
-		font-size: 12px;
-		color:white;
-		margin-top: 1.5em;
-			
-	}
+	
 	.input-group{
 		width: 50%;
 		margin-left:25%;
@@ -132,10 +123,7 @@
 		padding: 8px;
 		
 	}
-		div.scroll a {
-		color:black;
-		
-	}	
+
 	
 
 	div.scroll li.separador{
@@ -169,12 +157,7 @@ div.scroll a:hover{
 
 
 
-	div.scroll li.separador{
 
-    width: 100%; /* coloque aqui a largura da linha */
-    border-bottom: 1px solid rgba(154, 152, 152, 0.15);
-    list-style-type: none;
-}
 
 
 	.out-put-comands{
