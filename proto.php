@@ -61,39 +61,24 @@
 		</ul>
 	</div>
 	
-	
 	<div class="footer-cent"><p>© Marcos Junior 2015.</p></div>
-	<div class='out-put-comands'>
-			
+		<div class='out-put-comands'>		
 		<?php
-		if (!empty($_POST)){
-			$comm = $_POST['comm'];
-			echo "";		
-			echo "$comm";
-
-		
-			if ($comm == ""){
-							
-			echo"<div class='alert alert-info'>";
-			
-    echo"<a href='#' class='close' data-dismiss='alert' aria-label='close'>&times;</a>";
-			
-			
-			echo"<strong>Info!</strong> Indicates a neutral informative change or action.";
-			echo"</div>";
-						
+			if (!empty($_POST)){
+				$comm = $_POST['comm'];
+				echo "";		
+				echo "$comm";		
+				if ($comm == ""){							
+					echo"<div class='alert alert-info'>";			
+					echo"<a href='#' class='close' data-dismiss='alert' aria-label='close'>&times;</a>";			
+					echo"<strong>Info!</strong> Indicates a neutral informative change or action.";
+					echo"</div>";						
 			}
-
 			echo "";
 
 		}
 		?>
-	</div>
-	
-
-	
-	
-	
+	</div>	
 </body>
 </html>      
 
