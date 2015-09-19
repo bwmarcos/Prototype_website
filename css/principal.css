@@ -47,12 +47,11 @@
 }
 	.titulo_cent p{
 		
-	    font-family: Lucida Console;
-	    font-size: 0.5em;
+	    font-family: Verdana;
+	    
 	    font-weight: initial;
-	    margin: 0.35em 0 0.25em;
-	    opacity: 0.48;
-		font-size: 40px;
+	    margin: 0.35em 0 0.25em;	    
+		font-size: 30px;
 		color:grey;
 		font-style:bold;		
 }
