@@ -62,7 +62,7 @@
 	</div>
 	
 	
-	<div class="footer-cent"><p>CopyRight2015</p></div>
+	<div class="footer-cent"><p>© Marcos Junior 2015.</p></div>
 	<div class='out-put-comands'>
 			
 		<?php
