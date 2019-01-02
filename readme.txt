@@ -1,3 +1,3 @@
-Sistema web portifolio.
+#Web-PHP-System
 
-linguagens php, html5 e mysql.
+Languages PHP, Html5 and MySQL.
